@@ -1,3 +1,5 @@
+/*BST based file indexing program
+*/
 #include<iostream>
 #include"BST.h"
 #include<fstream>
